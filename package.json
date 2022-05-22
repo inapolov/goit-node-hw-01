@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inapolov/goit-node-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inapolov/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/inapolov/goit-node-hw-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
+}
